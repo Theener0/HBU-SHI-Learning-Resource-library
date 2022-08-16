@@ -1,7 +1,0 @@
-x=eval(input('x='))
-y=eval(input('y='))
-print('x+y=',x+y)
-print('x-y=',x-y)
-print('x*y=',x*y)
-print('x/y=',x/y)
-print('x//y=',x//y)
